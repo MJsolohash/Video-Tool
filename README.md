@@ -11,7 +11,7 @@
 
 **Trim and merge videos effortlessly with this powerful desktop application**
 
-[⬇️ Download Now](https://github.com/MJsolohash/SOLOHASH-VideoTool/releases/latest) 
+[⬇️ Download Now](https://github.com/MJsolohash/Video-Tool/releases/latest) 
 [📖 Documentation](#-features) 
 [💬 Report Issue](https://github.com/MJsolohash/SOLOHASH-VideoTool/issues)
 
