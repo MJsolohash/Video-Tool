@@ -19,7 +19,7 @@ dist/
 
 # Inno Setup output
 installer/
-*.exe
+
 *.msi
 
 # IDE files
